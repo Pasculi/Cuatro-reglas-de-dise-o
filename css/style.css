@@ -42,8 +42,8 @@ h1{
     margin-bottom:60px;
     padding:45px 45px 70px;
     padding-top:45px;
-    border: 2px solid rgba(250, 50, 50, .4);
     margin-right: 90px;
+    box-shadow: 4px 4px 5px rgb(250, 50, 50, .4) ;
 }
 .no-right-margin {
     margin-right: 0;
@@ -59,4 +59,7 @@ h1{
 .card-image{
     width: 100%;
     margin-bottom:25px;
+}
+.footer{
+    
 }
